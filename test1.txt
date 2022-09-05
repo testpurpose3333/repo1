@@ -1,0 +1,10 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 42FE-78BF
+
+ Directory of F:\MyProject
+
+09/05/2022  07:55 PM    <DIR>          .
+09/05/2022  07:55 PM    <DIR>          ..
+09/05/2022  07:55 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  208,261,709,824 bytes free
